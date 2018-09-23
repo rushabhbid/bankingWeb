@@ -1,0 +1,9 @@
+<a id="a5" href="newuser.php">New User</a><br>
+<a id="a6" href="remuser.php">Remove User</a><br>
+<a id="a7" href="admin_newcust.php">New Customer</a><br>
+<a id="a8" href="admin_remcust.php">Remove Customer</a><br>
+<a id="a1" href="passbook.php">Passbook</a><br>
+<a id="a2" href="transaction.php">Transaction</a><br>
+<a id="a3" href="neft.php">Neft/Rtgs</a><br>
+<a id="a4" href="net.php">Netbanking</a>
+<a id="a9" href="home.php">Home</a>

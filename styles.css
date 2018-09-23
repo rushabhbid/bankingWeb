@@ -1,0 +1,41 @@
+/*bank*/
+#s1 {
+float: right;
+margin-right: 10%;
+margin-top: 5%;
+border: 5px outset gray;
+padding: 1em;
+background-color: black;
+color: red;
+font-size:2em;	
+border-radius:15px;
+}
+
+/*bank1*/
+#s2{
+float: right;
+margin-right: 10%;
+margin-top: 2%;
+border: 5px outset gray;
+padding: 1em;
+background-color: black;
+color: red;
+font-size:2em;	
+border-radius:15px;
+}
+
+/*bank1*/
+#s3{
+float: right;
+margin-right: -31.5%;
+margin-top: 24%;
+border: 5px outset gray;
+padding: 1em;
+background-color: black;
+color: red;
+font-size:2em;	
+border-radius:15px;
+text-align:center;
+width:400px;
+}
+
